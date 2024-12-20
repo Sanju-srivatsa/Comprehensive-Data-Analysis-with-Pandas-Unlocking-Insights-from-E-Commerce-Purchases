@@ -1,4 +1,4 @@
-# Comprehensive Data Analysis with Pandas: Exploring E-Commerce Purchases for Actionable Insights
+# Data-Analysis-with-Pandas: E-Commerce Insights
 
 ## Introduction
 
